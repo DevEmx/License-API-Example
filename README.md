@@ -1,2 +1,2 @@
 # License-API-Example
-Example for Licenses System
+Example Licencse implementation for my plugins
